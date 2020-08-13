@@ -1,0 +1,1 @@
+window.hostApp = 'https://app-8-56-22019.cronapp.camara.leg.br/';
